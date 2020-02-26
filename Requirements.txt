@@ -1,0 +1,11 @@
+Python libraries needed:
+
+gTTs( google text to speech )
+
+- gTTS will handle to convert all these texts to speech. text parameter defines text to be read and lang defines the language (IETF language tag) to read the text in. Once loop finished, save() method writes result to file.
+
+Pygame and Pyaudio
+- pygame.mixer is a module for loading and playing sounds and must be initialized before using it
+
+Re 
+- Built-in package for regular expressions
